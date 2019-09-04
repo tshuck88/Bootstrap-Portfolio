@@ -37,5 +37,9 @@ header {
     color: #ffffff;
     position: absolute;
     bottom: 0;
-    
+}
+
+.btn-color {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
 }
